@@ -1,0 +1,6 @@
+nombre commpleto :cristian quintero tellez
+codigo: (0192833)
+programa: ingenieria de sistemas
+asignatura: mantenimiento de computadores y desarrollo de aplicaciones web
+fecha: 19 de septiembre de 2026
+

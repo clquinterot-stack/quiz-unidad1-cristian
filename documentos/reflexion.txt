@@ -1,0 +1,6 @@
+considero importante aprender a utilizar la terminal para administrar archivos y carpetas. tambien es importante conocer git para controlar los cambios realizados en un proyecto. aprendi que los commints permiten guardar diferentes versiones del proyecto. ademas, github permite almacenar y compartir el proyecto mediante un repositorio remoto.
+
+lo que aprendi durante el quiz
+durante el quiz aprendi a organizar un proyecto utilizando unicamente la terminal.
+tambien aprendi a crear versiones de los archivos mediante git.
+finalmente,  comprendi como conectar un proyecto local con un repositorio de github
