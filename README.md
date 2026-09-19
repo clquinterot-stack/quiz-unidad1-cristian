@@ -1,8 +1,8 @@
 
 quiz practico - unidad 1
 datos del estudiante
-nombre: alejandro cañizares
-codigo: 0192722
+nombre: cristian tellez
+codigo: 0192833
 programa: ing sistemas descripcion:
 el objetivo del ejercicio fue practicar el manejo de la terminal, a creacion y organizacion de archivos, el control de versiones con git y la publicacion de un proyecto en github
  punto1- creacion del repositorio
